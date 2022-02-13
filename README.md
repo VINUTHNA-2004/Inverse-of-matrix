@@ -4,7 +4,7 @@
 
 ## ALGORITHM:
 ### Step 1:
-Import numpoy as np
+Import numpy as np
 ### Step 2:
 Declare a variable |1 and |2 as an empty list.
 ### Step 3:
